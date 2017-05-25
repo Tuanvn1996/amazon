@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Group13
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: DELL
+Implementation-Vendor-Id: Group13.GK.SpringJPA
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/Group13/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
